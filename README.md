@@ -1,5 +1,5 @@
 # Customer churn prediction modeling
-using XGBoost, LightGBM, CatBoost, and SVM
+## using XGBoost, LightGBM, CatBoost, and SVM
 
 **Goal**: use machine learning to predict which customers are at high risk to churn. 
 <br>**Purpose**: develop focused retention programs and reduce marketing expenditures.
