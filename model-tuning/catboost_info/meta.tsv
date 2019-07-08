@@ -3,8 +3,8 @@ iterCount	3000
 learnErrorLog	learn_error.tsv
 testErrorLog	test_error.tsv
 timeLeft	time_left.tsv
-loss	AUC	max
+loss	F1	max
 loss	Logloss	min
 loss	Precision	max
 loss	Recall	max
-loss	F1	max
+loss	AUC	max
